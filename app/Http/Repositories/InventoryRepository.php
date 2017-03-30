@@ -2,7 +2,7 @@
 
 namespace App\Http\Repositories;
 
-use namespace App\Contracts\RepositoryInterface;
+use App\Contracts\RepositoryInterface;
 use App\Inventory;
 
 /**
